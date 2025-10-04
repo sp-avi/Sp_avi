@@ -41,7 +41,7 @@
 ## 🤝 Let’s Connect
 
 * 📧 Email: [avidhule7752@gmail.com](mailto:avidhule7752@gmail.com)
-* 💼 LinkedIn: [Avinash Dhule](https://linkedin.com/in/your-link)
+* 💼 LinkedIn: [Avinash Dhule](https:[//linkedin.com/in/your-link](https://www.linkedin.com/in/avinash-dhule-ad-b879411b0/))
 * 🐙 GitHub: [sp-avi](https://github.com/sp-avi)
 
 ---
